@@ -1,6 +1,21 @@
-# Facebook-Ads
+# O que a gente precisa de saber sobre o Marketing-digital nas redes sociais (FB, IG, MG)
 
-## Como funciona a faturação de anúncios no Facebook
+**Conteudo**:
+
+- Como funciona a faturação de anúncios no Facebook
+  - Tem em atenção a diferença entre o orçamento e o montante gasto
+  - Orçamentos diários e para toda a duração
+  - Como é efetuada a cobrança
+  - Quando pagas
+  - Ver as tuas cobranças
+- Formas de fazer publicidade no Instagram
+  - Ver estatísticas da conta no Instagram
+- Requisitos de elegibilidade e métodos de pagamento
+  - Pagamento no site
+  - Pagamento através de mensagens
+- Fonte
+
+# Como funciona a faturação de anúncios no Facebook
 
 Quando publicitas no Facebook, defines um orçamento para cada anúncio que apresentas. 
 Tentamos gastar o teu orçamento de forma equilibrada ao longo do período em que apresentas os teus anúncios, 
@@ -8,7 +23,7 @@ a menos que tenhas selecionado a opção Acelerada como o tipo de publicação.
 Não te cobramos mais do que o orçamento que defines. 
 Lembra-te de que tens controlo sobre o montante que gastas.
 
-### Tem em atenção a diferença entre o orçamento e o montante gasto:
+## Tem em atenção a diferença entre o orçamento e o montante gasto:
 
 - Orçamento: o montante que pretendes ou te dispões a gastar para apresentar o teu anúncio.
 - Montante gasto: o montante gasto em relação ao orçamento total ou para toda a duração.
@@ -23,7 +38,7 @@ No entanto, apenas 70 EUR são gastos durante esse mês com base no desempenho d
 A tua fatura é de 70 EUR.
 ```
 
-### Orçamentos diários e para toda a duração (total)
+## Orçamentos diários e para toda a duração (total)
 
 Existem dois tipos de orçamentos que podes definir para controlar o montante gasto num anúncio:
 
