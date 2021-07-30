@@ -89,7 +89,7 @@ qual é a publicação que pretendes promover.
 Quando promoves uma publicação ou história, podes monitorizar o número de pessoas que está a ver 
 e a interagir com a mesma ao tocares em **Ver estatísticas**.
 
-# Ver estatísticas da conta no Instagram
+## Ver estatísticas da conta no Instagram
     
     Esta funcionalidade só está disponível na app móvel Instagram.
     
@@ -127,7 +127,7 @@ Todos os métodos de pagamento requerem que:
 - Tenhas uma [Loja do Facebook](https://www.facebook.com/business/help/2343035149322466?id=1077620002609475) ou [Loja do Instagram](https://www.facebook.com/help/instagram/933245700437483).
 - Sigas as [Políticas para Vendedores](https://www.facebook.com/legal/merchant_policies) e as [Políticas de Comércio do Facebook](https://www.facebook.com/policies_center/commerce).
 
-# Pagamento no site
+## Pagamento no site
 
 Para encaminhares as pessoas para concluírem a sua compra no teu site, tens de:
 
@@ -135,10 +135,9 @@ Para encaminhares as pessoas para concluírem a sua compra no teu site, tens de:
 - Tens de ter a permissão Gerir catálogo para o teu catálogo.
 - Se um catálogo for partilhado contigo, podes selecioná-lo quando configurares a tua loja.
 - Se gerires a tua Página e o teu catálogo numa conta do Gestor de Negócios, tens de ter o cargo de administrador nessa conta.
+- Outros requisitos vão variar consoante o teu site.
 
-Outros requisitos vão variar consoante o teu site.
-
-# Pagamento através de mensagens
+## Pagamento através de mensagens
 
 Podes encaminhar os compradores para enviarem uma mensagem ao teu negócio no Messenger 
 ou no WhatsApp para concluírem o seu pagamento. Esta opção não vai configurar um método de pagamento para a tua loja. 
