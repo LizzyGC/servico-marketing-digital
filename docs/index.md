@@ -212,5 +212,11 @@ vão estar indisponíveis.
 - <https://www.facebook.com/business/help/395280961325644>
 - <https://www.facebook.com/business/help/449169642911614>
 
+---
+
+<div align="center">
+
 &copy; 2021 LizzyGC \
 &trade; ArtesGC
+
+</div>
