@@ -219,7 +219,6 @@ vão estar indisponíveis.
 
 <div align="center">
 
-&copy; 2021 LizzyGC \
-&trade; ArtesGC
+&copy; 2021 LizzyGC | &trade; ArtesGC
 
 </div>
