@@ -1,6 +1,6 @@
 # O que a gente precisa de saber sobre o Marketing-digital nas redes sociais (FB, IG, MG)
 
-**Conteudo**:
+## Conteudo:
 
 - Como funciona a faturação de anúncios no Facebook
   - Tem em atenção a diferença entre o orçamento e o montante gasto
@@ -15,7 +15,7 @@
   - Pagamento através de mensagens
 - Fonte
 
-# Como funciona a faturação de anúncios no Facebook
+## Como funciona a faturação de anúncios no Facebook
 
 Quando publicitas no Facebook, defines um orçamento para cada anúncio que apresentas. 
 Tentamos gastar o teu orçamento de forma equilibrada ao longo do período em que apresentas os teus anúncios, 
@@ -23,7 +23,7 @@ a menos que tenhas selecionado a opção Acelerada como o tipo de publicação.
 Não te cobramos mais do que o orçamento que defines. 
 Lembra-te de que tens controlo sobre o montante que gastas.
 
-## Tem em atenção a diferença entre o orçamento e o montante gasto:
+### Tem em atenção a diferença entre o orçamento e o montante gasto:
 
 - Orçamento: o montante que pretendes ou te dispões a gastar para apresentar o teu anúncio.
 - Montante gasto: o montante gasto em relação ao orçamento total ou para toda a duração.
@@ -38,20 +38,20 @@ No entanto, apenas 70 EUR são gastos durante esse mês com base no desempenho d
 A tua fatura é de 70 EUR.
 ```
 
-## Orçamentos diários e para toda a duração (total)
+### Orçamentos diários e para toda a duração (total)
 
 Existem dois tipos de orçamentos que podes definir para controlar o montante gasto num anúncio:
 
 - Orçamentos diários: o montante médio que te dispões a gastar todos os dias ao longo de todo o período em que apresentas o teu anúncio.
 - Orçamentos totais ou para toda a duração: o montante que te dispões a gastar ao longo de todo o período em que apresentas o teu anúncio.
 
-## Como é efetuada a cobrança
+### Como é efetuada a cobrança
 
 Os preços dos anúncios do Facebook baseiam-se num sistema de leilão em que os anúncios competem por impressões 
 com base na licitação e no desempenho. Quando apresentas o teu anúncio, só te cobramos pelo número de cliques 
 ou pelo número de impressões que o teu anúncio recebeu.
 
-## Quando pagas
+### Quando pagas
 
 A altura em que pagas pelo teu anúncio depende da forma como o pagas. 
 Quando crias o teu primeiro anúncio no Facebook, adicionas um método de pagamento à tua conta de anúncios, 
@@ -67,7 +67,7 @@ até uma vez por dia à medida que apresentas os teus anúncios.
 É desta forma que pagas caso utilizes um método de pagamento manual (como o PayTM ou o Boleto Bancário) 
 para comprar anúncios. Com os pagamentos manuais, não tens um limite de pagamento.
 
-## Ver as tuas cobranças
+### Ver as tuas cobranças
 
 Quando pretendes ver quanto estás a gastar nos teus anúncios, podes consultar uma estimativa 
 do limite de gastos diário no Gestor de Anúncios. 
@@ -83,7 +83,7 @@ específica. Cumprimos sempre o orçamento que definiste para cada anúncio.
 - O número real de cliques e impressões referente à cobrança é mostrado no recibo. 
 - O número de cliques no recibo pode ser diferente do número no teu Gestor de Anúncios.
 
-# Formas de fazer publicidade no Instagram
+## Formas de fazer publicidade no Instagram
 
 Não tens de ser um especialista de marketing para fazeres publicidade no Instagram. 
 Começa com uma publicação promovida. É uma forma simples de ajudares uma foto ou um vídeo que já publicaste no Instagram 
@@ -104,7 +104,7 @@ qual é a publicação que pretendes promover.
 Quando promoves uma publicação ou história, podes monitorizar o número de pessoas que está a ver 
 e a interagir com a mesma ao tocares em **Ver estatísticas**.
 
-## Ver estatísticas da conta no Instagram
+### Ver estatísticas da conta no Instagram
     
     Esta funcionalidade só está disponível na app móvel Instagram.
     
@@ -131,7 +131,7 @@ desde que converteste a tua conta numa conta comercial ou de criador de conteúd
 Também podes tocar no menu pendente na parte superior do ecrã para escolher 
 se queres ver as estatísticas para 7, 14 ou 30 dias.
 
-# Requisitos de elegibilidade e métodos de pagamento
+## Requisitos de elegibilidade e métodos de pagamento
 
 Quando configuras uma loja, podes escolher se queres que as pessoas concluam a sua compra no teu próprio site, 
 no Facebook ou no Instagram ou através de mensagem privada. 
@@ -142,7 +142,7 @@ Todos os métodos de pagamento requerem que:
 - Tenhas uma [Loja do Facebook](https://www.facebook.com/business/help/2343035149322466?id=1077620002609475) ou [Loja do Instagram](https://www.facebook.com/help/instagram/933245700437483).
 - Sigas as [Políticas para Vendedores](https://www.facebook.com/legal/merchant_policies) e as [Políticas de Comércio do Facebook](https://www.facebook.com/policies_center/commerce).
 
-## Pagamento no site
+### Pagamento no site
 
 Para encaminhares as pessoas para concluírem a sua compra no teu site, tens de:
 
@@ -152,7 +152,7 @@ Para encaminhares as pessoas para concluírem a sua compra no teu site, tens de:
 - Se gerires a tua Página e o teu catálogo numa conta do Gestor de Negócios, tens de ter o cargo de administrador nessa conta.
 - Outros requisitos vão variar consoante o teu site.
 
-## Pagamento através de mensagens
+### Pagamento através de mensagens
 
 Podes encaminhar os compradores para enviarem uma mensagem ao teu negócio no Messenger 
 ou no WhatsApp para concluírem o seu pagamento. Esta opção não vai configurar um método de pagamento para a tua loja. 
@@ -172,9 +172,42 @@ funcionalidades de mensagens orgânicas para negócios e anúncios publicados pa
 vão estar indisponíveis.
 - [Saiba mais sobre o Messenger for Business](https://www.facebook.com/business/help/499491430453591).
 
-# Fonte
+## Tabela de preços para os anúncios
+
+| Alvos(pessoas)/dia | Preço em Rands | Equivalente em Kwanzas |
+| --- | --- | --- |
+| 62-179 | R20 | .. |
+| 93-269 | R30 | .. |
+| 124-358 | R40 | .. |
+| 155-448 | R50 | .. |
+| 186-537 | R60 | .. |
+| 217-627 | R70 | .. |
+| 248-716 | R80 | .. |
+| 279-806 | R90 | .. |
+| 310-899 | R100 | .. |
+| 403-1200 | R150 | .. |
+| 484-1400 | R200 | .. |
+| 566-1600 | R250 | .. |
+| 647-1900 | R300 | .. |
+| 729-2100 | R350 | .. |
+| 811-2300 | R400 | .. |
+| 914-2800 | R500 | .. |
+| 1100-3300 | R600 | .. |
+| 1300-3800 | R700 | .. |
+| 1500-4200 | R800 | .. |
+| 1600-4700 | R900 | .. |
+| 1800-5200 | R1000 | .. |
+| 2600-7200 | R1500 | .. |
+| 3400-9900 | R2000 | .. |
+| 5100-14600 | R3000 | .. |
+| 8100-23500 | R5000 | .. |
+
+## Fonte
 
 - <https://www.facebook.com/business/help/716180208457684?id=1792465934137726>
 - <https://www.facebook.com/business/help/321843178515162?id=332010350818053>
 - <https://www.facebook.com/business/help/395280961325644>
 - <https://www.facebook.com/business/help/449169642911614>
+
+&copy; 2021 LizzyGC \
+&trade; ArtesGC
