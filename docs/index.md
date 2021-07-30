@@ -1,6 +1,6 @@
 # O que a gente precisa de saber sobre o Marketing-digital nas redes sociais (FB, IG, MG)
 
-## Conteudo:
+## Conteudo
 
 - [Como funciona a faturação de anúncios no Facebook](#como-funciona-a-faturação-de-anúncios-no-facebook)
   - [Tem em atenção a diferença entre o orçamento e o montante gasto](#tem-em-atenção-a-diferença-entre-o-orçamento-e-o-montante-gasto)
@@ -16,7 +16,7 @@
 - [Tabela de preços para os anúncios](#tabela-de-preços-para-os-anúncios)
 - [Fonte](#fonte)
 
-## Como funciona a faturação de anúncios no Facebook
+### Como funciona a faturação de anúncios no Facebook
 
 Quando publicitas no Facebook, defines um orçamento para cada anúncio que apresentas. 
 Tentamos gastar o teu orçamento de forma equilibrada ao longo do período em que apresentas os teus anúncios, 
@@ -24,7 +24,7 @@ a menos que tenhas selecionado a opção Acelerada como o tipo de publicação.
 Não te cobramos mais do que o orçamento que defines. 
 Lembra-te de que tens controlo sobre o montante que gastas.
 
-### Tem em atenção a diferença entre o orçamento e o montante gasto:
+#### Tem em atenção a diferença entre o orçamento e o montante gasto:
 
 - Orçamento: o montante que pretendes ou te dispões a gastar para apresentar o teu anúncio.
 - Montante gasto: o montante gasto em relação ao orçamento total ou para toda a duração.
@@ -39,26 +39,26 @@ No entanto, apenas 70 EUR são gastos durante esse mês com base no desempenho d
 A tua fatura é de 70 EUR.
 ```
 
-### Orçamentos diários e para toda a duração (total)
+#### Orçamentos diários e para toda a duração (total)
 
-Existem dois tipos de orçamentos que podes definir para controlar o montante gasto num anúncio:
+**Existem dois tipos de orçamentos que podes definir para controlar o montante gasto num anúncio:**
 
 - Orçamentos diários: o montante médio que te dispões a gastar todos os dias ao longo de todo o período em que apresentas o teu anúncio.
 - Orçamentos totais ou para toda a duração: o montante que te dispões a gastar ao longo de todo o período em que apresentas o teu anúncio.
 
-### Como é efetuada a cobrança
+#### Como é efetuada a cobrança
 
 Os preços dos anúncios do Facebook baseiam-se num sistema de leilão em que os anúncios competem por impressões 
 com base na licitação e no desempenho. Quando apresentas o teu anúncio, só te cobramos pelo número de cliques 
 ou pelo número de impressões que o teu anúncio recebeu.
 
-### Quando pagas
+#### Quando pagas
 
 A altura em que pagas pelo teu anúncio depende da forma como o pagas. 
 Quando crias o teu primeiro anúncio no Facebook, adicionas um método de pagamento à tua conta de anúncios, 
 o qual vai determinar as tuas definições de pagamento. 
 
-Existem duas definições de pagamento principais para os anúncios do Facebook:
+**Existem duas definições de pagamento principais para os anúncios do Facebook:**
 
 - Pagamentos automáticos: cobramos-te automaticamente sempre que gastas um determinado montante, conhecido como o teu limite de pagamento. 
 Efetuamos outra cobrança na tua data de faturação mensal por eventuais custos restantes. 
@@ -68,10 +68,11 @@ até uma vez por dia à medida que apresentas os teus anúncios.
 É desta forma que pagas caso utilizes um método de pagamento manual (como o PayTM ou o Boleto Bancário) 
 para comprar anúncios. Com os pagamentos manuais, não tens um limite de pagamento.
 
-### Ver as tuas cobranças
+#### Ver as tuas cobranças
 
 Quando pretendes ver quanto estás a gastar nos teus anúncios, podes consultar uma estimativa 
 do limite de gastos diário no Gestor de Anúncios. 
+
 Na secção Faturação do Gestor de Anúncios, podes encontrar todas as tuas cobranças finais, 
 incluindo os anúncios específicos que pagaste e exatamente aquilo que pagaste, 
 como apresentar um anúncio de divulgação ou fazer com que as pessoas cliquem no teu anúncio.
@@ -84,14 +85,14 @@ específica. Cumprimos sempre o orçamento que definiste para cada anúncio.
 - O número real de cliques e impressões referente à cobrança é mostrado no recibo. 
 - O número de cliques no recibo pode ser diferente do número no teu Gestor de Anúncios.
 
-## Formas de fazer publicidade no Instagram
+### Formas de fazer publicidade no Instagram
 
 Não tens de ser um especialista de marketing para fazeres publicidade no Instagram. 
 Começa com uma publicação promovida. É uma forma simples de ajudares uma foto ou um vídeo que já publicaste no Instagram 
 a alcançar mais pessoas. Com a comunidade do Instagram de mil milhões de pessoas, 
 podes alcançar mais potenciais clientes que se interessam pelo teu negócio através da publicidade.
 
-Existem três formas através das quais podes promover conteúdos da tua conta comercial do Instagram:
+**Existem três formas através das quais podes promover conteúdos da tua conta comercial do Instagram:**
 
 - Promover uma publicação que tenhas partilhado: se tiveres uma foto ou um vídeo no teu perfil que capturou a atenção 
 dos teus seguidores, podes utilizar a mesma para obter tanto sucesso a alcançar mais pessoas interessadas no teu negócio como um anúncio;
@@ -105,7 +106,7 @@ qual é a publicação que pretendes promover.
 Quando promoves uma publicação ou história, podes monitorizar o número de pessoas que está a ver 
 e a interagir com a mesma ao tocares em **Ver estatísticas**.
 
-### Ver estatísticas da conta no Instagram
+#### Ver estatísticas da conta no Instagram
     
     Esta funcionalidade só está disponível na app móvel Instagram.
     
@@ -132,20 +133,20 @@ desde que converteste a tua conta numa conta comercial ou de criador de conteúd
 Também podes tocar no menu pendente na parte superior do ecrã para escolher 
 se queres ver as estatísticas para 7, 14 ou 30 dias.
 
-## Requisitos de elegibilidade e métodos de pagamento
+### Requisitos de elegibilidade e métodos de pagamento
 
 Quando configuras uma loja, podes escolher se queres que as pessoas concluam a sua compra no teu próprio site, 
 no Facebook ou no Instagram ou através de mensagem privada. 
 
-Todos os métodos de pagamento requerem que:
+**Todos os métodos de pagamento requerem que:**
 
 - Cumpras os [Requisitos de elegibilidade de comércio](https://www.facebook.com/business/help/2347002662267537).
 - Tenhas uma [Loja do Facebook](https://www.facebook.com/business/help/2343035149322466?id=1077620002609475) ou [Loja do Instagram](https://www.facebook.com/help/instagram/933245700437483).
 - Sigas as [Políticas para Vendedores](https://www.facebook.com/legal/merchant_policies) e as [Políticas de Comércio do Facebook](https://www.facebook.com/policies_center/commerce).
 
-### Pagamento no site
+#### Pagamento no site
 
-Para encaminhares as pessoas para concluírem a sua compra no teu site, tens de:
+**Para encaminhares as pessoas para concluírem a sua compra no teu site, tens de:**
 
 - Tens de ter a permissão Gerir Página para a tua Página.
 - Tens de ter a permissão Gerir catálogo para o teu catálogo.
@@ -153,18 +154,18 @@ Para encaminhares as pessoas para concluírem a sua compra no teu site, tens de:
 - Se gerires a tua Página e o teu catálogo numa conta do Gestor de Negócios, tens de ter o cargo de administrador nessa conta.
 - Outros requisitos vão variar consoante o teu site.
 
-### Pagamento através de mensagens
+#### Pagamento através de mensagens
 
 Podes encaminhar os compradores para enviarem uma mensagem ao teu negócio no Messenger 
 ou no WhatsApp para concluírem o seu pagamento. Esta opção não vai configurar um método de pagamento para a tua loja. 
 Em vez disso, vais ter de configurar à tua maneira para processares pagamentos e encomendas.
 
-Requisitos para processar encomendas no WhatsApp
+**Requisitos para processar encomendas no WhatsApp**
 
 - Vais precisar de uma conta do WhatsApp Business na mesma conta do Gestor de Negócios que a tua loja.
 - Seleciona o WhatsApp como o método de contacto principal da tua loja.
 
-Requisitos para processar encomendas no Messenger
+**Requisitos para processar encomendas no Messenger**
 
 - Ter o cargo de administrador do Gestor de Negócios.
 - Deter a propriedade da tua Página do Facebook e catálogo no mesmo Gestor de Negócios.  
@@ -173,7 +174,7 @@ funcionalidades de mensagens orgânicas para negócios e anúncios publicados pa
 vão estar indisponíveis.
 - [Saiba mais sobre o Messenger for Business](https://www.facebook.com/business/help/499491430453591).
 
-## Tabela de preços para os anúncios
+### Tabela de preços para os anúncios
 
 | Alvos(pessoas)/dia | Preço em Rands | Equivalente em Kwanzas |
 | :---: | :---: | :---: |
@@ -205,7 +206,7 @@ vão estar indisponíveis.
 
 - **Vale a pena recordar que esses são os valores do dia 30/07/2021 e que até a data atual eles já possam ter sido atualizados..**
 
-## Fonte
+### Fonte
 
 - <https://www.facebook.com/business/help/716180208457684?id=1792465934137726>
 - <https://www.facebook.com/business/help/321843178515162?id=332010350818053>
