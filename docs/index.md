@@ -2,19 +2,19 @@
 
 ## Conteudo:
 
-- Como funciona a faturação de anúncios no Facebook
-  - Tem em atenção a diferença entre o orçamento e o montante gasto
-  - Orçamentos diários e para toda a duração
-  - Como é efetuada a cobrança
-  - Quando pagas
-  - Ver as tuas cobranças
-- Formas de fazer publicidade no Instagram
-  - Ver estatísticas da conta no Instagram
-- Requisitos de elegibilidade e métodos de pagamento
-  - Pagamento no site
-  - Pagamento através de mensagens
-- Tabela de preços para anúncios
-- Fonte
+- [Como funciona a faturação de anúncios no Facebook](#como-funciona-a-faturação-de-anúncios-no-facebook)
+  - [Tem em atenção a diferença entre o orçamento e o montante gasto](#tem-em-atenção-a-diferença-entre-o-orçamento-e-o-montante-gasto)
+  - [Orçamentos diários e para toda a duração (total)](#orçamentos-diários-e-para-toda-a-duração-total)
+  - [Como é efetuada a cobrança](#como-é-efetuada-a-cobrança)
+  - [Quando pagas](#quando-pagas)
+  - [Ver as tuas cobranças](#ver-as-tuas-cobranças)
+- [Formas de fazer publicidade no Instagram](#formas-de-fazer-publicidade-no-instagram)
+  - [Ver estatísticas da conta no Instagram](#ver-estatísticas-da-conta-no-instagram)
+- [Requisitos de elegibilidade e métodos de pagamento](#requisitos-de-elegibilidade-e-métodos-de-pagamento)
+  - [Pagamento no site](#pagamento-no-site)
+  - [Pagamento através de mensagens](#pagamento-através-de-mensagens)
+- [Tabela de preços para os anúncios](#tabela-de-preços-para-os-anúncios)
+- [Fonte](#fonte)
 
 ## Como funciona a faturação de anúncios no Facebook
 
@@ -176,7 +176,7 @@ vão estar indisponíveis.
 ## Tabela de preços para os anúncios
 
 | Alvos(pessoas)/dia | Preço em Rands | Equivalente em Kwanzas |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | 62-179 | R20 | 876,91Kz |
 | 93-269 | R30 | 1315,37Kz |
 | 124-358 | R40 | 1753,83Kz |
@@ -211,6 +211,8 @@ vão estar indisponíveis.
 - <https://www.facebook.com/business/help/321843178515162?id=332010350818053>
 - <https://www.facebook.com/business/help/395280961325644>
 - <https://www.facebook.com/business/help/449169642911614>
+- <https://www.youtube.com/playlist?list=PLyYb7IV-M4pdMX3KPrXZC0wX9l5rV1mj6> (Playlist no youtube bastante lucida sobre o mundo de marketing digital)
+- <https://github.com/LizzyGC/servico-marketing-digital/pdfs> (materiais de apoio usado nos videos do youtube)
 
 ---
 
